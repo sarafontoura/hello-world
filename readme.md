@@ -1,8 +1,2 @@
-# Git Course
-
-Teste
-
-Teste
-
-Outro teste
-
+﻿#Git Course
+Este é um repositorio teste.
